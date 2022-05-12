@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "kalobexercise",
+  "version": "1.0.0",
+  "main": "EvenOrOdd.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

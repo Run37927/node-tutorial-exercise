@@ -1,0 +1,3 @@
+here is the result: hello this is the first text file, hello this is the second text fileI'm the new content being appended<br>try appending again with br
+try appending again with new line
+try appending again with new line
